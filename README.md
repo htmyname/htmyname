@@ -1,2 +1,1 @@
-![Image](./github-metrics.svg) 
-"# htmyname" 
+![Image](./github-metrics.svg)
